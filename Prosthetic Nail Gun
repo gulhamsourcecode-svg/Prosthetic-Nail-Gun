@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Prosthetic Nail Gun Diagram</title>
+
+    <style>
+      body {
+        background: #f2f2f7;
+        margin: 0;
+        padding: 40px;
+        display: flex;
+        justify-content: center;
+        font-family: Arial, sans-serif;
+      }
+      .box {
+        background: white;
+        padding: 30px;
+        border-radius: 16px;
+        box-shadow: 0 4px 20px rgba(0,0,0,0.12);
+        max-width: 1200px;
+      }
+      embed {
+        width: 100%;
+        height: auto;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="box">
+      <embed src="Prosthetic%20Nail%20Gun.svg" type="image/svg+xml" />
+    </div>
+  </body>
+</html>
